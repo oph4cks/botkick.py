@@ -1,1 +1,1 @@
-# botkick.py
+BOT KICK
